@@ -2,7 +2,7 @@
 
 This project implements a neural network and backpropagation algorithm from scratch in Python, demonstrating the fundamental concepts of deep learning.
 
-![Computation Graph]([image_url_or_path](C:\Users\rajra\Desktop\Projects\computation graph.png))
+![Computation Graph]([[image_url_or_path](https://github.com/AshishRaj04/backpropagation-and-neural-network-implementation-from-scratch/blob/main/computation%20graph.png)]
 
 
 ## Overview
